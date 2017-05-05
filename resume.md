@@ -1,4 +1,4 @@
-Johnny Coder
+Yang Yifan
 ============
 
 ----
@@ -12,17 +12,14 @@ Johnny Coder
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016-2017 (expected)
+:   **Undergraduate, Social Science**; The University of Hong Kong (Hong Kong)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2013-2016
+:    Suzhou Academy(Suzhou)
 
 Experience
 ----------
@@ -33,14 +30,11 @@ Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Graphic designer of HKU Richuli Association, design posters for activities, make weekly teletext news of public wechat account, PIC of new member recruitment vedio making
 
 **That Other Job You Had**
 
-Also with a short description.
+Senior graphic designer of NG Studio, make covers for online novels and online magazines
 
 Technical Experience
 --------------------
@@ -86,8 +80,9 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
+     * Mandarin (native speaker)
+     * English
+     * Cantonese (learning)
      * This is what a nested list looks like.
 
 * Random tidbit
@@ -96,5 +91,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <a20090447@163.com> • +852 59893649 • 18 years old\
+> Room C702B,Lap-chee, Jockey Club Student Village Ⅲ，Kenndy Tow - Hong Kong
